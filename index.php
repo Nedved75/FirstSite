@@ -7,11 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-<?php>
+<?php
 
-    echo "hellowhat?"
+    echo "now that worked propperly"
 
-<?>
+?>
+
 
 </body>
 </html>
